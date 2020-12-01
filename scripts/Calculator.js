@@ -1,2 +1,1 @@
-alert('calculadora segundo script')
-let calculator=new CalcController();
+window.calculator=new CalcController();
